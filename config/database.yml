@@ -23,3 +23,13 @@ production:
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
+
+jerrylocal:
+    adapter: mysql
+    encoding: utf8
+    reconnect: false
+    database: rails_demo
+    pool: 5
+    username: root
+    password:
+    socket: /tmp/mysql.sock
