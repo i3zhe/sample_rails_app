@@ -13,6 +13,9 @@ gem 'gravatar_image_tag', '1.0.0.pre2'
 
 gem 'will_paginate', '3.0.pre2'
 
+gem 'redcarpet'
+gem 'coderay'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
